@@ -12,7 +12,7 @@ Tencent Cloud COS presigned URL signer (pure Dart).
 
 ```yaml
 dependencies:
-  tencent_cos_dart: ^0.1.0
+  tencent_cos_dart: ^0.1.4
 ```
 
 ## Usage

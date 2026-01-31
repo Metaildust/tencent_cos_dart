@@ -12,7 +12,7 @@
 
 ```yaml
 dependencies:
-  tencent_cos_dart: ^0.1.0
+  tencent_cos_dart: ^0.1.4
 ```
 
 ### 中国镜像（可选）
