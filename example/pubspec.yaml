@@ -1,0 +1,8 @@
+name: tencent_cos_dart_example
+publish_to: "none"
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  tencent_cos_dart:
+    path: ..
