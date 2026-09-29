@@ -1,0 +1,14 @@
+name: tencent_cos_dart
+resolution: workspace
+description: Tencent Cloud COS presigned URL signing for Dart.
+version: 0.1.4
+repository: https://github.com/Metaildust/tencent_cos_dart
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  crypto: ^3.0.7
+
+dev_dependencies:
+  test: ^1.25.5
